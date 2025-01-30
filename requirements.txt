@@ -1,0 +1,3 @@
+scapy==2.5.0
+ipaddress==1.0.23
+concurrent-futures==3.10.0
