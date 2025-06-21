@@ -5,7 +5,7 @@ Bu program, ağ üzerinde host keşfi ve port taraması yapabilen kapsamlı bir 
 
 ## Takım Üyeleri
 - 2320191018 - Eren ERGÜN
-- 2320191010 - İbrahim Yiğit Çetin
+- 2320191010 - İbrahim Yiğit ÇETİN
 
 ## Teslim Tarihi
 28 Ocak 2025
