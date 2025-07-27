@@ -28,8 +28,8 @@ ipaddress == 1.0.23
 
 1. Repository'yi klonlayın:
 ```bash
-git clone https://github.com/[kullanici-adi]/network-scanner.git
-cd network-scanner
+git clone https://github.com/ibrahimyigitcetin/portscanner.git
+cd portscanner
 ```
 
 2. Gerekli paketleri yükleyin:
