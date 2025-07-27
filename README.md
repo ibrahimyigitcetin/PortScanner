@@ -42,7 +42,7 @@ pip install -r requirements.txt
 Program root/administrator yetkileri ile çalıştırılmalıdır:
 
 ```bash
-sudo python3 scanner.py
+sudo python3 portscan.py
 ```
 
 ### Ana Menü Seçenekleri
